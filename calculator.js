@@ -1,4 +1,3 @@
-
 class Calculator {
     constructor(operands1Element, operands2Element){
         this.operands1Element = operands1Element;
